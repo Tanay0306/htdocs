@@ -22,6 +22,10 @@
      exit();
    }
 
+   //$user_id = $_POST['user_id'];
+   //$product_name = $_POST['product_name'];
+  
+
    $user_id = $_POST['user_id'];
    $product_name = $_POST['product_name'];
    $product_price = $_POST['product_price'];
